@@ -1,0 +1,25 @@
+.oddElement {
+    background-color: lightpink;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.coolerClass {
+    font-size: 24px;
+}
+
+#numberTwo {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#thirdElement {
+    font-size: 24px;
+}
+
+#numberFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
