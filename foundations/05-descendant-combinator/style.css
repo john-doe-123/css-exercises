@@ -1,0 +1,13 @@
+/* div p {
+    color:red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+} */
+
+.container .text {
+    color:red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
